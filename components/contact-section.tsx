@@ -64,7 +64,7 @@ export function ContactSection() {
                 className="flex flex-col sm:flex-row items-center justify-center gap-4"
               >
                 <motion.a
-                  href="mailto:contact@mayanksen.com"
+                  href="mailto:mayanksenn20@gmail.com"
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
                   className="w-full sm:w-auto px-8 py-4 rounded-full bg-primary text-primary-foreground font-medium flex items-center justify-center gap-3 hover:glow-purple transition-all"
@@ -74,7 +74,7 @@ export function ContactSection() {
                   <ArrowUpRight size={16} />
                 </motion.a>
                 <motion.a
-                  href="https://linkedin.com/in/mayanksen"
+                  href="https://www.linkedin.com/in/mayank-sen-891a9022a"
                   target="_blank"
                   rel="noopener noreferrer"
                   whileHover={{ scale: 1.05 }}

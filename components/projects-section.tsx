@@ -19,7 +19,7 @@ const projects = [
       "Learning Management",
       "Responsive UI",
       "Design Systems",
-      "Mobile Responsive"
+
     ],
     icon: Layers,
     gradient: "from-primary/20 to-primary/5",
